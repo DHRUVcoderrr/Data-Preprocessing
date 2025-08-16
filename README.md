@@ -1,5 +1,4 @@
 # Data-Preprocessing
-Here’s a professional **README.md** template you can use for your **Data Preprocessing** GitHub repository. You can customize the details like dataset, techniques, and libraries according to your project:
 
 ---
 
@@ -102,10 +101,6 @@ Contributions are welcome! Feel free to fork the repo, open issues, and submit p
 
 ---
 
-## 📜 License
 
-This project is licensed under the MIT License.
 
----
 
-Would you like me to make this **README.md beginner-friendly with more explanations** (good for learning repos), or keep it **professional and concise** (good for resume/portfolio)?
